@@ -14,6 +14,12 @@ re : For regular expressions.
 matplotlib.pyplot : For Visualization.
 
 seaborn : For Visualization.
+
+Libraries installations for windows:
+1. pip3 install sqlalchemy
+2. pip3 install matplotlib
+3. pip3 install seaborn
+4. pip3 install pandas
   
 
  
